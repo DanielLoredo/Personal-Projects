@@ -10,6 +10,7 @@ EL proyecto está divido en 3 carpetas:
   3. Images: Se encuentran las imagenes utilizadas
 
 \
+\
 
 This is my IB (International Baccalaureate) Internal Assessment for the subject "COMPUTER SC SL in SPANISH"\
 This project was done with the Netbeans UI, it allows the data handling of books of a Library, storing the data in a .txt file and allowing the generation of a PDF containing them.
