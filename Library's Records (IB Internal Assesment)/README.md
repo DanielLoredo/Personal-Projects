@@ -8,10 +8,10 @@ EL proyecto está divido en 3 carpetas:
   1. Code: Se encuentran todas las ventanas utilizadas por el pograma de acuerdo a su función, siendo la ventana principal "BibliotecaDigital.java", cabe destacar que todo este programa esta hecho en Java
   2. Documentation: Es la documentación requerida por parte del proyecto. El funcionamiento del programa se puede ver en el video "Criterio D"
   3. Images: Se encuentran las imagenes utilizadas
-  
-  
-  
-  
+
+
+
+
 This is my IB (International Baccalaureate) Internal Assessment for the subject "COMPUTER SC SL in SPANISH"\
 This project was done with the Netbeans UI, it allows the data handling of books of a Library, storing the data in a .txt file and allowing the generation of a PDF containing them.
 
