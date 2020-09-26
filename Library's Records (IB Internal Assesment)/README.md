@@ -1,7 +1,7 @@
 # Inventario de Biblioteca/Library's records (IB Internal Assessment)
 
 Este es mi Internal de la asignatura "COMPUTER SC SL in SPANISH" dentro de la modalidad de "Diploma" del Bachillerato Internacional (IB)\
-Es una programa con interfaz gráfica que permite el manejo de datos de una biblioteca por medio de objetos "Libro", almacenando la información en un archivo de texto y permitiendo la generación de un PDF con los mismos.\
+Es una programa con interfaz gráfica que permite el manejo de datos de una biblioteca por medio de objetos "Libro", almacenando la información en un archivo de texto y permitiendo la generación de un PDF con los mismos.
 
 EL proyecto está divido en 3 carpetas:
 
@@ -10,8 +10,10 @@ EL proyecto está divido en 3 carpetas:
   3.- Images: Se encuentran las imagenes utilizadas
   
   
+  
+  
 This is my IB (International Baccalaureate) Internal Assessment for the subject "COMPUTER SC SL in SPANISH"\
-This project was done with the Netbeans UI, it allows the data handling of books of a Library, storing the data in a .txt file and allowing the generation of a PDF containing them.\
+This project was done with the Netbeans UI, it allows the data handling of books of a Library, storing the data in a .txt file and allowing the generation of a PDF containing them.
 
 This project is divided in 3 folders:
 
